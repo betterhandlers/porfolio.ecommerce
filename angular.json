@@ -96,7 +96,14 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "branch": "gh-pages",
+            "repo": "https://github.com/betterhandlers/porfolio.ecommerce.git",
+            "dir": "E:/BetterHandlers/repositories/portfolio/ecommerce/porfolio.ecommerce",
+            "name": "Abhishek Aggarwal",
+            "email": "betterhandlers@gmail.com"
+          }
         }
       }
     },
