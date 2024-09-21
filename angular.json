@@ -38,9 +38,6 @@
             "namedChunks": true
           },
           "configurations": {
-            "github-pages": {
-              "baseHref": "https://betterhandlers.github.io/portfolio.ecommerce/"
-            },
             "production": {
               "fileReplacements": [
                 {
